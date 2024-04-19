@@ -6,5 +6,5 @@
 5. [Esteban Maldonado](./dist/sig/esteban_maldonado.html)
 6. [Marianela Espinoza](./dist/sig/marianela_espinoza.html)
 7. [Mateo Cueva](./dist/sig/mateo_cueva.html)
-8. [Nicolas Munoz](./dist/sig/nicolas_munoz.html)
+8. [Nicolas Munoz](./dist/sig/nicolas_munoz2.html)
 9. [Sofia Becerra](./dist/sig/sofia_becerra.html)
