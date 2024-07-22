@@ -8,4 +8,4 @@
 7. [Mateo Cueva](./dist/sig/mateo_cueva.html)
 8. [Nicolas Munoz](./dist/sig/nicolas_munoz2.html)
 9. [Sofia Becerra](./dist/sig/sofia_becerra.html)
-10. [Maria Isabel](./dist/sig/isabel-lopez.html)
+10. [Maria Isabel](./src/sig/isabel-lopez.html)
