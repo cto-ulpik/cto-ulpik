@@ -5,7 +5,7 @@
 4. [David Martinez](./dist/sig/david_martinez.html)
 5. [Esteban Maldonado](./dist/sig/esteban_maldonado.html)
 6. [Marianela Espinoza](./dist/sig/marianela_espinoza.html)
-7. [Mateo Cueva](./dist/sig/mateo_cueva.html)
+7. [Mateo Moreira](./dist/sig/mateo_moreira.html)
 8. [Nicolas Munoz](./dist/sig/nicolas_munoz2.html)
 9. [Sofia Becerra](./dist/sig/sofia_becerra.html)
 10. [Maria Isabel](./src/sig/isabel-lopez.html)
